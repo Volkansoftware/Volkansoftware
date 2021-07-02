@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Volkansoftware
 - 👀 I’m interested in Web Developer
-- 🌱 I’m currently learning Javascript
+- 🌱 I’m currently learning React
 # https://www.linkedin.com/in/volkan-vural-software/
 
 <!---
