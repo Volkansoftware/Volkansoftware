@@ -1,9 +1,6 @@
-- 👋 Hi, I’m @Volkansoftware
-- 👀 I’m interested in Web Developer
-- 🌱 I’m currently learning React
-# https://www.linkedin.com/in/volkan-vural-software/
+### 👋 Hi, I’m Volkan Vural
 
-<!---
-Volkansoftware/Volkansoftware is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I'm Volkan from Turkey, and I do content on Development. I really enjoy learning languages and frameworks like React and Vue.js. you can check out my LinkedIn at https://www.linkedin.com/in/volkan-vural-software/
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Volkansoftware)](https://github.com/anuraghazra/github-readme-stats)
+
