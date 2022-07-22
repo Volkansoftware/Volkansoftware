@@ -1,7 +1,7 @@
 # 💫 About Me:
 👋 <br><br>
-<img src="(https://user-images.githubusercontent.com/58187741/180471938-f53b23da-ef02-4c44-af25-72bd9f8b6b50.gif)" alt="drawing" width="200"/>
-![hello](https://user-images.githubusercontent.com/58187741/180471938-f53b23da-ef02-4c44-af25-72bd9f8b6b50.gif)
+
+![hello](https://user-images.githubusercontent.com/58187741/180471938-f53b23da-ef02-4c44-af25-72bd9f8b6b50.gif=250x250)
 
 <br><br>
 ## I'm Volkan from Turkey, and I am Developer. I really enjoy learning languages and frameworks like React and Vue.js.
